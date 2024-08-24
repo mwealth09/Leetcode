@@ -1,11 +1,11 @@
-/* 
+/*  whatsupp
 383. Ransom Note
 Status: Accepted
 Runtime: 8 ms
 Memory Usage: 44.4 MB
 */
 
-public class Main {
+public class ransomNote {
     /*
     METHOD: moving from left we check if that letter of ransomnote is present in magazine
 
